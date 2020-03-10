@@ -1,0 +1,2 @@
+rootProject.name='Data_One_Way_Transfer'
+include ':app'
